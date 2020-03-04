@@ -21,7 +21,7 @@ class Implementation {
 
 
     public static void main(String[] args) {
-		// Read the strings.
+	// Read the strings.
         String stringToAdd = null;
 
         FileReader fr = null;
